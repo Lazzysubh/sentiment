@@ -1,0 +1,20 @@
+1,The service was slow and the food took forever to arrive.
+2,Best meal I've had in a long time! The chef really knows what they're doing.
+3,The prices were pretty high for what you get.
+4,I ordered the veggie burger and it was like eating cardboard. Gross!
+5,We had an amazing time at this restaurant! The staff was super friendly and knowledgeable about the menu.
+6,The decor is really cool, but the music was a bit too loud for my taste.
+7,I asked for no MSG and they still put it in my dish.
+8,Best pizza I've ever had! The crust was perfect and the toppings were fresh.
+9,The restaurant is very clean, but the menu options are a bit limited.
+10,Our server seemed really overwhelmed and took forever to take our order.
+11,We loved the outdoor seating area! So peaceful and relaxing.
+12,The food was good, but not exceptional. Prices were a bit steep for what you get.
+13,I'm gluten-free and they didn't have any options for me.
+14,Great value for the price! The portions are huge.
+15,The atmosphere is so cozy and inviting.
+16,Fast service, but the food was just okay.
+17,The chef's specials were really interesting and delicious!
+18,The restaurant could use a bit more lighting.
+19,Best brunch spot in town - highly recommend!
+20,I didn't like the noise level, it was too loud.
